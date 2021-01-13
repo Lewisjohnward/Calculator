@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 40px;
+}
+
+p {
+    text-align: center;
+}
+
+.calculator{
+    margin: auto;
+    width: 200px;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: black 1px solid;
+}
+
+.calculator-number {
+    border: black 1px solid;
+    margin: 10px;
+    border-radius: 25px;
+}
